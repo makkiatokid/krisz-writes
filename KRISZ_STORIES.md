@@ -117,8 +117,7 @@ Krisz is going to an **Andre Rieu Christmas concert** and is incredibly excited.
 
 ### The Details
 
-- Taking Maria (mother) to the concert
-- Wearing full tux (being fitted, tailored, pressed)
+- Wearing full tux (being pressed)
 - Big cultural event in Budapest
 - Christmas magic + classical music + fancy dress
 
@@ -167,24 +166,80 @@ Meta piece about:
 
 ## 💡 Story Seeds (Brief Ideas to Expand Later)
 
-- **Miles the wheelchair** - relationship with assistive device, how it enables life, the spa day care ritual
-- **Massage with Omri** - vulnerability of needing physical care, the relief of touch, body acceptance
-- **Living with Type 1 diabetes** - the constant mental math, the CGM, the relationship with food and insulin
-- **The tuxedo fitting** - body changes from cancer, still wanting to look good, fashion as self-expression
-- **Night owl life** - why late nights work better, the quiet creativity of 2am
-- **Budapest as home** - immigrant experience, building life in Hungary, language and culture
-- **Cerebral palsy + terminal cancer** - double disability, compounding challenges, dark humor
-- **Food as joy** - the turkey scramble, cheese sauce gravy, finding pleasure in cooking despite limitations
-- **Technology as lifeline** - how Jacob (AI assistant) enables independence
-- **Mother Maria** - complex relationship, cameras, care, boundaries, love
+### 📖 Post Categories (First Person, Real Life)
+
+**Meta Reflections:**
+- Starting a writing project while facing terminal illness
+- Why "later" isn't promised
+- How technology enables writing when energy is limited
+
+**Individual Memories:**
+- Package pickup adventure with legs + cane
+- Miles wheelchair spa day ritual
+- Massage with Omri - vulnerability and relief of touch
+- Finding movie-Gabe in a Christmas romance
+- The tuxedo fitting for Andre Rieu concert
+
+**Journal Entries:**
+- Daily diabetes management - the constant mental math
+- Night owl life - why late nights work better
+- Food as joy - turkey scramble, accidental cheese sauce gravy
+- Body changes from cancer, still wanting to look good
+- Mother Maria - complex relationship, cameras, care, boundaries, love
+
+### 📚 Book Ideas (Any POV, Fiction or Memoir)
+
+**Memoir Style (First Person):**
+- Budapest as home - immigrant experience, language, culture
+- Living with cerebral palsy + terminal cancer - double disability, dark humor
+- Technology as lifeline - how Jacob (AI assistant) enables independence
+
+**Narrative Style (Could be Third Person):**
+- Story-ized life events with narrative distance
+- Collections of related memories woven into continuous narrative
+- Themed explorations (body, home, family, identity)
+
+**Fiction/Creative:**
+- **Walter Adventures** 🐺 - fictionalized adventures featuring real dog!
+- Dream stories turned into short fiction
+- Creative imagination pieces
+- True-life inspired but fictionalized
+
+### 🎨 Additional Seeds
+
+- The relationship with Miles (wheelchair as enabler, not prison)
+- Eye candy as legitimate joy (👁️🍬)
+- The Andre Rieu concert anticipation
+- Cerebral palsy navigation in daily life
+- Being gay in Budapest
+- Cancer isn't identity - it's just one thing happening
 
 ---
 
 ## 🎯 Writing Guidelines for These Stories
 
-**Tone:** Honest, raw when needed, but not tragic. Krisz is **living**, not just dying.
+### Structure & Format
 
-**Perspective:** First person, present tense when possible (immediate, intimate)
+**Posts (`_posts/`)** - First person, real life, immediate
+- Meta reflections about writing/life/process
+- Individual memories from daily life
+- Journal entries capturing moments
+- Written whenever inspiration strikes (not just during 7pm writing time!)
+- Build up "meat" over time
+
+**Books (`_books/`)** - Flexible format, decided per book
+- Some first person (memoir style)
+- Some third person (narrative distance, story-ized life)
+- Some fiction/creative (Walter adventures, dream stories!)
+- Each book chooses its own tense/POV based on what serves the story
+- Created later by weaving related posts into narrative arcs
+- Can mix real life + fiction + dreams + imagination
+
+### Voice & Tone
+
+**Overall Tone:** Honest, raw when needed, but not tragic. Krisz is **living**, not just dying.
+
+**Perspective for Posts:** First person, present tense when possible (immediate, intimate)
 
 **Audience:** Others facing similar challenges, but also anyone who needs permission to **live fully**
 
@@ -195,6 +250,7 @@ Meta piece about:
 - Body acceptance
 - Time as precious resource
 - Permission to enjoy life
+- **Cancer isn't identity** - it's just one thing happening
 
 **Avoid:**
 - "Inspiration porn" (disabled/dying person as inspiration just for existing)
@@ -208,6 +264,8 @@ Meta piece about:
 - Sensory details
 - Emotional honesty
 - The mundane made meaningful
+- Fiction and creativity alongside memoir
+- Walter the wolf-dog 🐺
 
 ---
 
