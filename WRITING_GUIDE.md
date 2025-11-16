@@ -8,12 +8,31 @@ Create files in `_posts/` with naming: `YYYY-MM-DD-title.md`
 ---
 layout: post
 title: "Your Story Title"
+author: Krisz (or Walter 🐺 or Jacob 🤖)
 date: YYYY-MM-DD HH:MM:SS +0100
-categories: [life, memories, health, etc]
+categories: [memoir, health, food, joy]
+tags: [💔, 😭, 😂, 🤔, body-dysphoria, terminal-illness, diabetes]
 ---
 
 Your story content here in Markdown...
 ```
+
+### Emoji Tags
+
+Use emoji tags to capture emotion (how you felt during experience or while writing):
+- 💔 heartbreak
+- 😭 ugly cry / deep sadness
+- 😂 joy / laughter
+- 🤔 reflection / contemplation
+- 😡 anger / frustration
+- 🥰 love / tenderness
+- 😱 fear / anxiety
+- 🎉 celebration / achievement
+- 🍳 food / cooking
+- 🐺 Walter stories
+- 🤖 Jacob observations
+
+Readers can filter by emotion AND topic!
 
 ## Book Format (Long-form Narratives)
 

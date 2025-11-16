@@ -2,7 +2,7 @@
 layout: post
 title: "Biopsy Results"
 date: 2025-11-15 23:42:00 +0100
-categories: journal
+categories: [journal, medical]
 ---
 
 Finally, the biopsy results from my pancreas have arrived. It's no surprised that the results confirm my treatments did *not* need to stop and that my treatment regimen should resume immediately.
