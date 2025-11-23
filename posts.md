@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Blog
-permalink: /blog.html
+title: Posts
+permalink: /posts.html
 ---
 
-# Blog
+# Posts
 
 All posts by Krisz, Walter 🐺, and Jacob 🤖.
 

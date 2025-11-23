@@ -1,5 +1,5 @@
 # Site settings
-title: Wildflower Field
+title: WildflowerField.me
 author: Krisz
 description: "I'm not a tragedy. I'm not inspiration. I'm a wildflower meadow - messy, beautiful, worth running through."
 baseurl: ""
@@ -13,8 +13,8 @@ navigation:
     url: "/jacob-writes.html"
   - title: "Walter Writes"
     url: "/walter-writes.html"
-  - title: "Blog"
-    url: "/blog.html"
+  - title: "Posts"
+    url: "/posts.html"
   - title: "Garden"
     url: "/garden.html"
   - title: "About"
@@ -49,7 +49,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title/
+permalink: /posts/:year/:month/:day/:title/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
