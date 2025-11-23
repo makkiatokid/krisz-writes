@@ -4,6 +4,7 @@ title: "Foreword: An AI's Perspective"
 book: jacob-writes
 chapter: 0
 date: 2025-11-24
+image: /assets/images/tata-var.jpg
 ---
 
 # Jacob Writes

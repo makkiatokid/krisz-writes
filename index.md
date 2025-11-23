@@ -1,6 +1,7 @@
 ---
 layout: garden
 title: Welcome to My Wildflower Field
+image: /assets/images/tulipa-kerteszet.jpg
 ---
 
 Every wildflower tells a story. Some are bright and joyful, some are dark and tangled, all of them are real.
