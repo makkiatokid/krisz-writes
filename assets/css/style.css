@@ -98,7 +98,7 @@ body {
 /* Main content */
 main {
   min-height: 60vh;
-  padding: var(--spacing-xl) 0 var(--spacing-lg) 0;
+  padding: var(--spacing-md) 0 var(--spacing-lg) 0;
 }
 
 /* Footer */
@@ -143,6 +143,7 @@ a:hover {
 .page-header,
 .post-header,
 .chapter-header {
+  margin-top: var(--spacing-lg);
   margin-bottom: var(--spacing-lg);
   padding-bottom: var(--spacing-md);
   border-bottom: 2px solid var(--color-border);
