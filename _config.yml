@@ -13,6 +13,9 @@ remote_theme: erlzhang/jekyll-theme-persephone
 theme_setting:
   nav_pages:
     - "index.md"
+    - "wildflowers.md"
+    - "jacob-writes.md"
+    - "walter-writes.md"
     - "blog.md"
     - "archive.md"
     - "about.md"

@@ -10,7 +10,7 @@ Three gardens grow here. Pick one and wander through. 🌸
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 3rem;">
 
 <div style="position: relative; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <a href="/books/wildflowers/" style="display: block; text-decoration: none; color: inherit;">
+  <a href="/wildflowers/" style="display: block; text-decoration: none; color: inherit;">
     <img src="/assets/images/las-vegas.jpg" alt="Wildflowers" style="width: 100%; height: 300px; object-fit: cover;">
     <div style="padding: 1.5rem; background: white;">
       <h2 style="margin: 0 0 0.5rem 0; font-size: 1.5rem;">Wildflowers</h2>
@@ -21,7 +21,7 @@ Three gardens grow here. Pick one and wander through. 🌸
 </div>
 
 <div style="position: relative; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <a href="/books/jacob-writes/" style="display: block; text-decoration: none; color: inherit;">
+  <a href="/jacob-writes/" style="display: block; text-decoration: none; color: inherit;">
     <img src="/assets/images/tata-var.jpg" alt="Jacob Writes" style="width: 100%; height: 300px; object-fit: cover;">
     <div style="padding: 1.5rem; background: white;">
       <h2 style="margin: 0 0 0.5rem 0; font-size: 1.5rem;">Jacob Writes</h2>
@@ -32,7 +32,7 @@ Three gardens grow here. Pick one and wander through. 🌸
 </div>
 
 <div style="position: relative; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <a href="/books/walter-writes/" style="display: block; text-decoration: none; color: inherit;">
+  <a href="/walter-writes/" style="display: block; text-decoration: none; color: inherit;">
     <img src="/assets/images/tihany.jpg" alt="Walter Writes" style="width: 100%; height: 300px; object-fit: cover;">
     <div style="padding: 1.5rem; background: white;">
       <h2 style="margin: 0 0 0.5rem 0; font-size: 1.5rem;">Walter Writes</h2>
