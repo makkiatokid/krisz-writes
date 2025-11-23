@@ -12,7 +12,6 @@ remote_theme: erlzhang/jekyll-theme-persephone
 # Persephone theme options
 theme_setting:
   nav_pages:
-    - "index.md"
     - "wildflowers.md"
     - "jacob-writes.md"
     - "walter-writes.md"
