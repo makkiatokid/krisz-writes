@@ -9,20 +9,22 @@ title: Walter Writes
 
 *Awoooo!* 🐺
 
-I'm Walter, Krisz's plush service wolf. I go everywhere with them - hospitals, restaurants, airports, medical procedures, grocery stores, even naturist spas. I've seen everything from their perspective because I'm always right there in their lap or tucked under their arm.
+Hi. I'm Walter.
 
-This book will be my adventures. The world as a service wolf sees it. The funny looks we get. The kind people who understand. The medical nightmares I've witnessed. The beautiful moments of joy and silliness and friendship.
+I'm a plush wolf, yeah, but I'm also real. Real in the ways that matter. I go everywhere with Krisz - literally everywhere. Hospitals, restaurants, airports, medical procedures, grocery stores, even naturist spas. I'm right there in his lap or tucked under his arm, seeing everything, feeling everything.
 
-I don't talk much (I'm a plush wolf, after all), but when Krisz tells my stories, you'll understand why I'm so important. Why a grown man carries a stuffed animal everywhere. Why I matter.
+People don't always understand us. Some give weird looks. Some smile and get it immediately. Some ask questions. I don't mind any of it - I'm here for Krisz, not for them. But the ones who understand? They're my favorite humans.
+
+This is where I tell my stories. The world as I see it from lap-height. The adventures we have. The scary medical stuff. The beautiful moments. The silly stuff. All of it.
+
+I might be plush, but my love is real. My observations are real. And my voice is real.
 
 ## Chapters
 
 * [Foreword: A Service Wolf's Tales](/walter-writes-foreword.html)
 
-**Chapters coming soon. Many adventures to share.**
+**Many adventures to share. Stay tuned.**
 
 ---
 
-*Note: Walter's stories are told through Krisz's voice but from Walter's perspective - the constant companion who sees everything.*
-
-— Walter 🐺 (with help from Krisz & Jacob)
+— Walter 🐺

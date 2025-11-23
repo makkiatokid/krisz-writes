@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<article class="book-chapter">
+  <header class="chapter-header">
+    {% if page.book_title %}
+    <div class="book-title-small">{{ page.book_title }}</div>
+    {% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.date %}
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
+  </header>
+  
+  <div class="chapter-content">
+    {{ content }}
+  </div>
+  
+  <nav class="chapter-nav">
+    {% if page.prev_chapter %}
+    <a href="{{ page.prev_chapter }}" class="prev-chapter">← Previous</a>
+    {% endif %}
+    
+    {% if page.book %}
+    <a href="/{{ page.book }}.html" class="back-to-book">{{ page.book | replace: '-', ' ' | capitalize }}</a>
+    {% endif %}
+    
+    {% if page.next_chapter %}
+    <a href="{{ page.next_chapter }}" class="next-chapter">Next →</a>
+    {% endif %}
+  </nav>
+</article>

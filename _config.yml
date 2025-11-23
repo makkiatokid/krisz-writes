@@ -1,43 +1,58 @@
 # Site settings
-title: Krisz Writes
+title: Wildflower Field
 author: Krisz
-email: your-email@example.com
 description: "I'm not a tragedy. I'm not inspiration. I'm a wildflower meadow - messy, beautiful, worth running through."
 baseurl: ""
 url: "https://wildflowerfield.me"
 
-# Theme settings
-remote_theme: erlzhang/jekyll-theme-persephone
+# Navigation
+navigation:
+  - title: "Wildflowers"
+    url: "/wildflowers.html"
+  - title: "Jacob Writes"
+    url: "/jacob-writes.html"
+  - title: "Walter Writes"
+    url: "/walter-writes.html"
+  - title: "Blog"
+    url: "/blog.html"
+  - title: "Garden"
+    url: "/garden.html"
+  - title: "About"
+    url: "/about.html"
 
-# Persephone theme options
-theme_setting:
-  nav_pages:
-    - "wildflowers.md"
-    - "jacob-writes.md"
-    - "walter-writes.md"
-    - "blog.md"
-    - "archive.md"
-    - "about.md"
-  lang:
-    category_all: All
-    blog_title: Blog
+# Collections
+collections:
+  books:
+    output: true
+    permalink: /:collection/:name/
+  garden:
+    output: true
+    permalink: /garden/:path/
 
-# Books settings for jekyll-books plugin
-books_settings:
-  source: "_books"
-  destination: "/books"
-  book:
-    layout: "book"
-  chapter:
-    layout: "chapter"
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      layout: "chapter"
+  - scope:
+      path: ""
+      type: "garden"
+    values:
+      layout: "post"
 
 # Build settings
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-books
 
 # Exclude from processing
 exclude:
