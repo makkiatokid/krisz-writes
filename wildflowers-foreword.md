@@ -16,7 +16,7 @@ Most people don't know this about me. I've spent decades exhausting myself, pret
 
 **I need you to see the real me before I'm gone.**
 
-[Read the full foreword →](/wildflowers/)
+[Read the full foreword →](/wildflowers.html)
 
 ---
 
