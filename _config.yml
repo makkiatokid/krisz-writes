@@ -20,6 +20,15 @@ theme_setting:
     category_all: All
     blog_title: Blog
 
+# Books settings for jekyll-books plugin
+books_settings:
+  source: "_books"
+  destination: "books"
+  book:
+    layout: "book"
+  chapter:
+    layout: "chapter"
+
 # Build settings
 markdown: kramdown
 plugins:
