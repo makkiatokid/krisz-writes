@@ -5,3 +5,7 @@ _site/
 vendor/
 .bundle/
 *.gem
+
+# Writing workflow - keep seeds and drafts local
+**/SEED-*.md
+**/DRAFT-*.md
