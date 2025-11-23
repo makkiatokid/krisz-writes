@@ -20,12 +20,6 @@ theme_setting:
     category_all: All
     blog_title: Blog
 
-# Collections for book/chapter format
-collections:
-  books:
-    output: true
-    permalink: /books/:path/
-
 # Build settings
 markdown: kramdown
 plugins:
