@@ -4,6 +4,7 @@ title: "Foreword: Welcome to My Wildflower Field í¼¸"
 book: wildflowers
 chapter: 0
 date: 2025-11-24
+image: /assets/images/las-vegas.jpg
 ---
 
 Hi. I'm Krisz.
