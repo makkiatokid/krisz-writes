@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Garden
+permalink: /garden.html
 ---
 
 # The Garden 🌺

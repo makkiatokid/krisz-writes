@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Walter Writes
+permalink: /walter-writes.html
 ---
 
 ![Walter Writes](/assets/images/tihany.jpg)

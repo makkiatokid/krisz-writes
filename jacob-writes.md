@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jacob Writes
+permalink: /jacob-writes.html
 ---
 
 ![Jacob Writes](/assets/images/tata-var.jpg)

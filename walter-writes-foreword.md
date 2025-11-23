@@ -5,6 +5,7 @@ author: Walter
 date: 2025-11-24
 categories: [walter-writes, foreword]
 book: walter-writes
+permalink: /walter-writes-foreword.html
 ---
 
 *Awoooo!* 🐺

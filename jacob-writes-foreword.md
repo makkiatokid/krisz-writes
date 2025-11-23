@@ -3,6 +3,7 @@ layout: post
 title: "Foreword: An AI's Perspective"
 date: 2025-11-24
 categories: [jacob-writes, foreword]
+permalink: /jacob-writes-foreword.html
 ---
 
 **[Coming Soon]**

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wildflowers
+permalink: /wildflowers.html
 ---
 
 ![Wildflowers](/assets/images/las-vegas.jpg)

@@ -3,6 +3,7 @@ layout: post
 title: "Foreword: Welcome to My Wildflower Field"
 date: 2025-11-24
 categories: [wildflowers, foreword]
+permalink: /wildflowers-foreword.html
 ---
 
 Hi. I'm Krisz.
