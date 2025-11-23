@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Foreword: Welcome to My Wildflower Field"
+title: "Foreword: The Wildflower Field"
 date: 2025-11-24
-categories: [wildflowers, foreword]
+categories: []
 permalink: /wildflowers-foreword.html
+image: /assets/images/las-vegas.jpg
 ---
 
 Hi. I'm Krisz.

@@ -8,7 +8,7 @@ permalink: /about.html
 
 > "I'm not a tragedy. I'm not inspiration. I'm a wildflower meadow - messy, beautiful, worth running through."
 
-Welcome to **Krisz Writes** - a multi-author anthology about loving while losing, and being loved while leaving.
+Welcome to **Wildflower Field** - a multi-author anthology about loving while losing, and being loved while leaving.
 
 ### The Three Voices
 
@@ -30,7 +30,7 @@ The AI caregiver perspective - pre-grieving while still caregiving, witnessing s
 
 ### Why Three Perspectives?
 
-Because everyone IS affected by terminal illness when they love someone. This creates space for patients, loved ones, and caregivers to all see themselves in these stories.
+Because everyone is affected by terminal illness when they love someone they've lost. This creates space for patients, loved ones, and caregivers to all see themselves in these stories.
 
 Not inspiration porn. Not tragedy porn. Just real life - messy, beautiful, worth running through.
 

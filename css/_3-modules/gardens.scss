@@ -1,0 +1,62 @@
+/* Custom styles for three gardens section */
+.three-gardens {
+  .section__title {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+}
+
+/* Hibiscus pink buttons */
+.c-button,
+.button {
+  background-color: #ff69b4 !important;
+  border-color: #ff69b4 !important;
+  
+  &:hover {
+    background-color: #ff1493 !important;
+    border-color: #ff1493 !important;
+  }
+}
+
+.garden-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.3s ease;
+  margin-bottom: 2rem;
+
+  &:hover {
+    transform: translateY(-4px);
+  }
+
+  &__image {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+      transition: transform 0.3s ease;
+    }
+  }
+
+  &:hover &__image img {
+    transform: scale(1.05);
+  }
+
+  &__content {
+    h3 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+    }
+
+    p {
+      color: var(--text-alt-color);
+      line-height: 1.6;
+    }
+  }
+}

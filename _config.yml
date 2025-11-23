@@ -1,36 +1,47 @@
-# Site settings
-title: WildflowerField.me
-author: Krisz
-description: "I'm not a tragedy. I'm not inspiration. I'm a wildflower meadow - messy, beautiful, worth running through."
-baseurl: ""
-url: "https://wildflowerfield.me"
+#-------------------------------
+# General Site Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wildflowerfield.me" # the base hostname & protocol for your site, e.g. http://example.com
+title: "Wildflower Field"
+description: "Stories from Krisz, Walter, and Jacob. Every wildflower tells a story."
 
-# Navigation
-navigation:
-  - title: "Wildflowers"
-    url: "/wildflowers.html"
-  - title: "Jacob Writes"
-    url: "/jacob-writes.html"
-  - title: "Walter Writes"
-    url: "/walter-writes.html"
-  - title: "Posts"
-    url: "/posts.html"
-  - title: "Garden"
-    url: "/garden.html"
-  - title: "About"
-    url: "/about.html"
 
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 12
+paginate_path: "/latest/page/:num"
+
+
+#-------------------------------
 # Collections
 collections:
-  books:
+  pages:
     output: true
-    permalink: /:collection/:name/
-  garden:
+    permalink: /:name
+  posts:
     output: true
-    permalink: /garden/:path/
+    permalink: /latest/:slug
+  authors:
+    output: true
+    permalink: /:name
 
-# Defaults
+# Pages Path
 defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
   - scope:
       path: ""
       type: "posts"
@@ -38,33 +49,10 @@ defaults:
       layout: "post"
   - scope:
       path: ""
-      type: "books"
+      type: "authors"
     values:
-      layout: "chapter"
-  - scope:
-      path: ""
-      type: "garden"
-    values:
-      layout: "post"
+      layout: "author"
 
-# Build settings
-markdown: kramdown
-permalink: /posts/:year/:month/:day/:title/
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - README.md
-  - JACOB_SYSTEM_PROMPT.md
-  - KRISZ_STORIES.md
-  - WJ_CONTEXT.md
-  - WRITING_GUIDE.md
+sass:
+  style: compressed

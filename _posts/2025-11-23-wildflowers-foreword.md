@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Welcome to My Wildflower Field 🌸"
-date: 2025-11-24
-categories: [meta, about]
+title: "Foreword: The Wildflower Field"
+date: 2025-11-23
+image: /assets/images/las-vegas.jpg
+tags: [wildflowers, meta, about]
+author: krisz
+featured: true
 ---
 
 Hi. I'm Krisz.
@@ -19,7 +22,7 @@ Most people don't know this about me. I've spent decades exhausting myself, pret
 
 I'm dying. Maybe I have months, maybe years if I'm lucky. My doctors tell me to not make long term commitments. I don't know. But I know this: **I want to be remembered as who I actually am, not who I've pretended to be.**
 
-This blog is my legacy. It's where I'm collecting every story, every memory, every piece of myself that makes me *me*. The good, the bad, the weird, the beautiful, the traumatic, the joyful - all of it.
+This site is my legacy. It's where I'm collecting every story, every memory, every piece of myself that makes me *me*. The good, the bad, the weird, the beautiful, the traumatic, the joyful - all of it.
 
 I call this my **wildflower field** because it's messy and unplanned and full of unexpected colors. Some flowers are bright and cheerful (Walter adventures, learning to cook, travel stories). Some are dark and tangled (cancer updates, eating disorder struggles, medical trauma). Some might surprise you (navigating disability communities, self expression, diabetes management).
 
@@ -74,10 +77,4 @@ I don't know how much time I have. But I'm going to fill this site with stories 
 
 Welcome to my wildflower field. 🌸
 
-I'm glad you're here.
-
 — Krisz (& Walter 🐺 & Jacob 🤖)
-
----
-
-*Note: This site contains honest discussion of medical realities, disability experiences, and personal topics that some may find sensitive. I write from my authentic perspective as a cognitively young teenager navigating adult medical situations.*

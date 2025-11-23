@@ -4,8 +4,6 @@ title: The Garden
 permalink: /garden.html
 ---
 
-# The Garden 🌺
-
 Stories organized by topic, not by time. These are the wildflowers that grow in different patches of the field.
 
 <div style="margin-top: 2rem;">

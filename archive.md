@@ -4,8 +4,6 @@ title: Archive
 permalink: /archive.html
 ---
 
-# Archive 📚
-
 Browse all posts by date.
 
 ## All Posts

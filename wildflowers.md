@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Wildflowers
+title: "Wildflowers"
 permalink: /wildflowers.html
+image: /assets/images/las-vegas.jpg
 ---
 
-![Wildflowers](/assets/images/las-vegas.jpg)
+## What You'll Find Here
 
 Every wildflower tells a story. One moment, one story, told deeply and completely.
 
 This is my legacy - not journal entries, but real storytelling with photos from my perspective, showing you the world as I experience it.
-
-## What You'll Find Here
 
 Each chapter is one wildflower. One story. Told completely.
 
@@ -28,7 +27,7 @@ Each chapter is one wildflower. One story. Told completely.
 
 ## Chapters
 
-* [Foreword: Welcome to My Wildflower Field](/wildflowers-foreword.html)
+* [Foreword: The Wildflower Field](/wildflowers-foreword.html)
 
 **More chapters coming soon...**
 

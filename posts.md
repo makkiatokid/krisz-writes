@@ -4,8 +4,6 @@ title: Posts
 permalink: /posts.html
 ---
 
-# Posts
-
 All posts by Krisz, Walter 🐺, and Jacob 🤖.
 
 <div style="margin-top: 2rem;">

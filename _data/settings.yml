@@ -1,0 +1,102 @@
+#-------------------------------
+# Site Settings
+title: "WildflowerField.me"
+description: Stories from Krisz, Walter, and Jacob. Every wildflower tells a story.
+logo: "" # You can add own logo. For example "/images/logo.svg".
+logo_dark: ""
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: "Home"
+      url: "/"
+    - title: "Wildflowers"
+      url: "/wildflowers/"
+    - title: "Jacob Writes"
+      url: "/jacob-writes/"
+    - title: "Walter Writes"
+      url: "/walter-writes/"
+    - title: "Latest"
+      url: "/latest/"
+    - title: "Authors"
+      url: "/authors/"
+
+# Call to action button
+cta_button:
+  enable: true
+  cta_button_link: '/contact/'
+  cta_button_text: Get in touch
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero_title: Every wildflower tells a story. 🌺
+  hero_description: Some are bright and joyful, some are dark and tangled, all of them are real.<br><br>Three gardens grow here. Pick one and wander through.
+
+
+#-------------------------------
+# Tags Section Settings
+tags_section:
+  enable: true
+  number_posts: 3 # To control how many posts to show under each tag section, set the value to a number. Three is the default.
+  number_columns: 3 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
+  tags:
+    - tag: "wildflowers"
+    - tag: "cancer"
+    - tag: "diabetes"
+    - tag: "walter"
+    - tag: "fashion"
+
+# You can add many tag sections to the homepage; each section will show the recent posts by the tag.
+
+
+#-------------------------------
+# Authors Section Settings
+authors_section:
+  enable: true
+  section_title: Meet our authors
+
+
+#-------------------------------
+# Footer Settings
+footer_description: Stories from Krisz, Walter, and Jacob. Every wildflower tells a story. 🌺
+
+
+# Social Links
+social: []
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp_settings:
+  enable: false
+  mailchimp_title: Get interesting news
+  mailchimp_description: Subscribe to our newsletter and we'll send you the emails of latest posts.
+  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_input_text: Your email address
+  mailchimp_button_text: Subscribe
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your form_id
+  description: Danto comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Danto theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google_analytics: # Add your GA Tracking Id
