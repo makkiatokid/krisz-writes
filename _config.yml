@@ -32,7 +32,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-books
 
 # Exclude from processing
 exclude:
