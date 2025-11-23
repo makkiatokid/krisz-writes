@@ -11,17 +11,15 @@ remote_theme: erlzhang/jekyll-theme-persephone
 
 # Persephone theme options
 theme_setting:
-  blog_page: "blog.md"
-  about_page: "about.md"
-  archive_page: "archive.md"
   nav_pages:
+    - "index.md"
     - "blog.md"
     - "archive.md"
     - "about.md"
   lang:
     category_all: All
     blog_title: Blog
-  
+
 # Collections for book/chapter format
 collections:
   books:
@@ -45,3 +43,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
+  - JACOB_SYSTEM_PROMPT.md
+  - KRISZ_STORIES.md
+  - WJ_CONTEXT.md
+  - WRITING_GUIDE.md

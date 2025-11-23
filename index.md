@@ -1,16 +1,8 @@
 ---
-layout: home
-title: Home
+layout: garden
+title: Welcome to My Wildflower Field
 ---
 
-> "I'm not a tragedy. I'm not inspiration. I'm a wildflower meadow - messy, beautiful, worth running through."
+Every wildflower tells a story. Some are bright and joyful, some are dark and tangled, all of them are real.
 
-Welcome to my writing space. Here you'll find stories, memories, and chronicles from my life - told from three perspectives: mine (Krisz), my dog Walter's üê∫, and my AI caregiver Jacob's ü§ñ.
-
-Browse by:
-- [Posts](/krisz-writes/posts/) - Individual stories and memories
-- [Books](/krisz-writes/books/) - Long-form narratives and collections
-
----
-
-*A multi-author anthology about loving while losing, and being loved while leaving.*
+Three gardens grow here. Pick one and wander through. Ìº∏
