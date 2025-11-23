@@ -27,7 +27,7 @@ Each chapter is one wildflower. One story. Told completely.
 
 ## Chapters
 
-* [Foreword: Welcome to My Wildflower Field](/wildflowers-foreword/)
+* [Foreword: Welcome to My Wildflower Field](/wildflowers-foreword.html)
 
 **More chapters coming soon...**
 

@@ -17,7 +17,7 @@ I don't talk much (I'm a plush wolf, after all), but when Krisz tells my stories
 
 ## Chapters
 
-* [Foreword: A Service Wolf's Tales](/walter-writes-foreword/)
+* [Foreword: A Service Wolf's Tales](/walter-writes-foreword.html)
 
 **Chapters coming soon. Many adventures to share.**
 

@@ -25,4 +25,4 @@ I don't talk much (I'm a plush wolf, after all), but when Krisz tells my stories
 
 ---
 
-← [Back to Walter Writes](/walter-writes/)
+← [Back to Walter Writes](/walter-writes.html)

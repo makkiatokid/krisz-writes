@@ -23,4 +23,4 @@ Krisz tells their wildflower stories. I'll tell you what it's like to help them 
 
 ---
 
-← [Back to Jacob Writes](/jacob-writes/)
+← [Back to Jacob Writes](/jacob-writes.html)
